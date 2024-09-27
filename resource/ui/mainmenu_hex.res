@@ -334,7 +334,7 @@
 			"proportionaltoparent"	"1"
 			"mouseinputenabled"		"0"
 
-			"bgcolor_override"		"0 0 0 1"
+			"bgcolor_override"		"0 0 0 0"
 		}
 		
 		"BelowDarken2"
@@ -346,12 +346,12 @@
 			"zpos"					"0"
 			"wide"					"f0"
 			"tall"					"20"
-			"visible"				"1"	
+			"visible"				"0"	
 			"PaintBackgroundType"	"0"
 			"proportionaltoparent"	"1"
 			"mouseinputenabled"		"0"
 
-			"bgcolor_override"		"0 0 0 80"
+			"bgcolor_override"		"0 0 0 0"
 		}
 	}	
 	"SettingsButton"
@@ -611,14 +611,14 @@
 	{
 		"ControlName"				"CExImageButton"
 		"fieldName"					"DisconnectButton"
-		"xpos"						"4-54"
+		"xpos"						"4"//"4-54"
 		"ypos"						"-116"
 		"wide"						"54"
 		"tall"						"54"
 		"zpos"						"26"
 		"autoResize"				"0"
 		"pinCorner"					"3"
-		"visible"					"0"
+		"visible"					"1"
 		"enabled"					"1"
 		"tabPosition"				"0"
 		"textinsetx"				"4"
