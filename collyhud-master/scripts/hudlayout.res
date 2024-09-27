@@ -1,3 +1,4 @@
+//test
 //transparent viewmodel
 //#base "../scripts/transparentviewmodels.res"
 
