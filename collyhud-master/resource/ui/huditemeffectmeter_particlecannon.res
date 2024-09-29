@@ -1,11 +1,1 @@
-#base "huditemeffectmeter.res"
-
-// Cow Mangler
-
-"Resource/UI/HudItemEffectMeter_ParticleCannon.res"
-{
-	HudItemEffectMeter
-	{
-		"ypos"			"r141"
-	}	
-}
+#base "huditemeffectmeter_sodapopper.res"

@@ -1,11 +1,1 @@
-#base "huditemeffectmeter.res"
-
-// Spycicle
-
-"Resource/UI/HudItemEffectMeter_Heavy.res"
-{
-	HudItemEffectMeter
-	{
-		"ypos"			"r123"
-	}	
-}
+#base "huditemeffectmeter_sodapopper.res"
