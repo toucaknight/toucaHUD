@@ -8,6 +8,50 @@
 
 	"Fonts"
 	{
+		"ProductBold56"
+		{
+		  "1"
+		  {
+				"name"		"Product Sans Bold"
+				"tall"		"56"
+				"antialias" "1"
+				"additive"	"0"
+				"antialias" "1"
+		  }
+		}
+		"ProductBold56Blur"
+		{
+		  "1"
+		  {
+				"name"		"Product Sans Bold"
+				"tall"		"56"
+				"antialias" "1"
+				"blur"		"1"
+				"antialias" "1"
+		  }
+		}
+		"ProductBold58"
+		{
+		  "1"
+		  {
+				"name"		"Product Sans Bold"
+				"tall"		"58"
+				"antialias" "1"
+				"additive"	"0"
+				"antialias" "1"
+		  }
+		}
+		"ProductBold58Blur"
+		{
+		  "1"
+		  {
+				"name"		"Product Sans Bold"
+				"tall"		"58"
+				"antialias" "1"
+				"blur"		"1"
+				"antialias" "1"
+		  }
+		}	
 		//=========================================================================================
 		// PRODUCT DEFINITIONS
 		//=========================================================================================
@@ -2796,5 +2840,6 @@
 			"font"	"resource/scheme/fonts/product_bold_numbers.ttf"
 			"name"	"Product Sans Bold Numbers"
 		}
+		
 	}
 }
