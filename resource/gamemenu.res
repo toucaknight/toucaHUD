@@ -73,14 +73,7 @@
 		"tooltip"									"Report a Player"
 		"OnlyInGame"								"1"
 	}
-	"Minmode"
-	{
-		"label"										"I"
-		"command"									"engine toggle cl_hud_minmode"
-		"tooltip"									"Toggle Minmode"
-		"OnlyInGame"								"1"
-	}
-
+	
 	"FriendsOpenButton"
 	{
 		"label"										"Friends List"

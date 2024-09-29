@@ -1339,17 +1339,17 @@
 			"depressedFgColor_override"				"White_Solid"
 		}
 	}
-
-	"Minmode"
+	
+"Minmode"
 	{
 		"ControlName"								"EditablePanel"
 		"fieldname"									"Minmode"
 		"xpos"										"2"
 		"ypos"										"0"
 		"zpos"										"16"
-		"wide"										"20"
+		"wide"										"0"
 		"tall"										"20"
-		"proportionaltoparent"						"1"
+		"proportionaltoparent"						"0"
 
 		"pin_to_sibling"							"Report"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"

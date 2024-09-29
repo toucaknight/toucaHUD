@@ -94,8 +94,8 @@
 		"White"												"240 240 240 255"
 		"White_Solid"										"255 255 255 255"
 		"Off_White"											"240 240 240 255"
-		"White_Dark"										"240 240 240 255"
-		"White_Darker"										"240 240 240 255"
+		"White_Dark"										"200 200 200 255"
+		"White_Darker"										"200 200 200 255"
 
 		"Black"												"20 20 20 255"
 		"Black_Blue"										"20 20 20 255"
