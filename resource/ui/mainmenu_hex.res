@@ -611,7 +611,7 @@
 	{
 		"ControlName"				"CExImageButton"
 		"fieldName"					"DisconnectButton"
-		"xpos"						"4"//"4-54"
+		"xpos"						"4-54"
 		"ypos"						"-116"
 		"wide"						"54"
 		"tall"						"54"
@@ -633,8 +633,8 @@
 		"command" 					"engine disconnect"
 		"proportionaltoparent"		"1"
 		
-		"fgcolor_override"			"245 245 245 255"
-		"defaultfgcolor_override"	"245 245 245 255"
+		"fgcolor_override"			"245 245 245 60"
+		"defaultfgcolor_override"	"245 245 245 60"
 		"armedfgcolor_override"		"245 245 245 240"
 		"armedbgcolor_override"		"255 255 255 16"
 
@@ -643,7 +643,7 @@
 			
 		"paintbackground"			"1"
 				
-		"image_drawcolor"			"245 245 245 250"
+		"image_drawcolor"			"245 245 245 60"
 		"image_armedcolor"			"245 245 245 200"
 		"SubImage"
 		{
