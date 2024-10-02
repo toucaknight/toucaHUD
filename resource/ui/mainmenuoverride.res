@@ -414,7 +414,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldname"		"FriendsContainer"
-		"xpos"			"191"
+		"xpos"			"148"
 		"ypos"			"c-85"
 		"zpos"			"5"
 		"wide"			"160"
@@ -1489,7 +1489,7 @@
 		"brighttext"				"0"
 		"default"					"1"
 		"labeltext" 				"QUIT"
-		"command" 					"quit"
+		"command" 					"engine quit"
 		"proportionaltoparent"		"1"
 		
 		"fgcolor_override"			"245 245 245 255"
@@ -1760,8 +1760,8 @@
 		"tall"						"12"
 		"autoResize"				"0"
 		"pinCorner"					"3"
-		"visible"					"1"
-		"enabled"					"1"
+		"visible"					"0"
+		"enabled"					"0"
 		"tabPosition"				"0"
 		"labelText"					"+"
 		"textAlignment"				"center"

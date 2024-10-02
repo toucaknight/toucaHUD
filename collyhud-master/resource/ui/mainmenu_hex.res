@@ -289,7 +289,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldname"		"FriendsContainer"
-		"xpos"			"191"
+		"xpos"			"148"
 		"ypos"			"c-85"
 		"zpos"			"5"
 		"wide"			"160"

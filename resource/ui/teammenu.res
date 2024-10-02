@@ -186,7 +186,7 @@
 	{
 		"ControlName"	"CTFTeamButton"
 		"fieldName"		"teambutton3"
-		"xpos"			"c-45.5"
+		"xpos"			"cs-0.5"
 		"ypos"			"c58"
 		"zpos"			"12"
 		"textinsetx"			"28" 
@@ -218,7 +218,7 @@
 	{
 		"ControlName"	"CTFTeamButton"
 		"fieldName"		"teambutton2"
-		"xpos"			"cs-10.13"
+		"xpos"			"cs-13.37"
 		"ypos"			"0"
 		"zpos"			"12"
 		"textinsetx"			"14" 
@@ -284,8 +284,8 @@
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"CancelButton"
-		"xpos"			"cs-10.125"
-		"ypos"			"cs-10.822"
+		"xpos"			"cs1.25"
+		"ypos"			"cs2.908"
 		"zpos"			"6"
 		"AUTO_WIDE_TOCONTENTS"			"1"
 		"TEXTINSETX"			"14"
@@ -302,7 +302,6 @@
 		"brighttext"	"0"
 		"command"		"cancelmenu"
 		"font"			"product8"
-		"pin_to_sibling" "teambutton2"
 		"defaultbgcolor"		"20 20 20 255"
 		"defaultbgcolor_override"		"20 20 20 255"
 		"bgcolor"		"20 20 20 255"
