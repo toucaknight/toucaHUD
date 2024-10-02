@@ -4,23 +4,23 @@
 {
 	"Colors"
 	{
-		"White"												"235 240 245 255"
+		"White"												"240 240 240 255"
 		"White_Solid"										"255 255 255 255"
-		"White_Dark"											"155 160 165 255"
+		"White_Dark"											"200 200 200 255"
 
-		"Black"												"2 5 9 255"
-		"Black_Blue"											"12 12 12 255"
+		"Black"												"20 20 20 255"
+		"Black_Blue"											"20 20 20 255"
 
-		"Gray_Blue_Darkest"									"25 25 32 255"
-		"Gray_Blue_Dark"										"12 12 12 255"
-		"Gray_Blue"											"42 42 49 255"
-		"Gray_Blue_Light"										"50 50 57 255"
+		"Gray_Blue_Darkest"									"20 20 20 255"
+		"Gray_Blue_Dark"										"20 20 20 255"
+		"Gray_Blue"											"42 42 42 255"
+		"Gray_Blue_Light"										"50 50 50 255"
 
-		"Gray"												"62 62 72 255"
-		"Gray_Light"											"75 75 85 255"
+		"Gray"												"20 20 20 255"
+		"Gray_Light"											"20 20 20 255"
 
-		"Button"											"50 50 57 255"
-		"Button_Hover"										"62 62 72 255"
+		"Button"											"20 20 20 255"
+		"Button_Hover"										"57 57 57 255"
 
 		"Blank"												"0 0 0 0"
 
