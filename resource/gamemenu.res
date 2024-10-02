@@ -94,9 +94,4 @@
 		"command"									"Engine"
 		"OnlyAtMenu"								"1"
 	}
-	"PauseMenuBG"
-	{
-		"command"									"Engine"
-		"OnlyInGame"								"1"
-	}
 }

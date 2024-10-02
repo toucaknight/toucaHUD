@@ -485,6 +485,24 @@
 		"fieldName"		"SettingsButton"
 		"xpos"			"99999"
 	}
+		"CharacterSetupButtonlabel"
+		{
+			"ControlName"			"cexlabel"
+			"fieldName"				"CharacterSetupButtonlabel"
+			"font"	"Symbols_34"
+			"textAlignment"	"center"
+			"labeltext"	"L"
+			"xpos"					"0"
+			"ypos"					"-11+1"
+			"proportionaltoparent"	"1"
+			"zpos"					"27"
+			"wide"					"54"
+			"tall"					"30"
+			"visible"				"1"
+			"enabled"				"1"
+			"pin_to_sibling"	"CharacterSetupButton"
+			"mouseinputenabled"	"0"
+		}	
 	"CharacterSetupButton"
 	{
 		"ControlName"				"CExImageButton"
@@ -524,8 +542,8 @@
 			
 		"paintbackground"			"1"
 				
-		"image_drawcolor"			"245 245 245 255"
-		"image_armedcolor"			"245 245 245 255"
+		"image_drawcolor"			"245 245 245 0"
+		"image_armedcolor"			"245 245 245 0"
 		
 		"SubImage"
 		{
@@ -1370,7 +1388,24 @@
 		"enabled"		"0"
 		"scaleImage"	"0"
 	}
-
+		"GeneralStoreButtonlabel2"
+		{
+			"ControlName"			"cexlabel"
+			"fieldName"				"GeneralStoreButtonlabel2"
+			"font"	"peachSymbols_34"
+			"textAlignment"	"center"
+			"labeltext"	"7"
+			"xpos"					"0"
+			"ypos"					"-11+1"
+			"proportionaltoparent"	"1"
+			"zpos"					"270"
+			"wide"					"54"
+			"tall"					"30"
+			"visible"				"1"
+			"enabled"				"1"
+			"pin_to_sibling"	"GeneralStoreButton"
+			"mouseinputenabled"	"0"
+		}		
 	"GeneralStoreButton"
 	{
 		"ControlName"				"CExImageButton"
@@ -1407,8 +1442,8 @@
 			
 		"paintbackground"			"1"
 				
-		"image_drawcolor"			"245 245 245 255"
-		"image_armedcolor"			"245 245 245 200"
+		"image_drawcolor"			"245 245 245 0"
+		"image_armedcolor"			"245 245 245 0"
 		
 		"SubImage"
 		{
@@ -1478,8 +1513,8 @@
 			"ypos"					"11+1"
 			"proportionaltoparent"	"1"
 			"zpos"					"1"
-			"wide"					"28"
-			"tall"					"28"
+			"wide"					"25"
+			"tall"					"o1"
 			"visible"				"1"
 			"enabled"				"1"
 			"scaleImage"			"1"
@@ -1496,7 +1531,7 @@
 		"ControlName"				"CExImageButton"
 		"fieldName"					"DisconnectButton"
 		"xpos"						"4"
-		"ypos"						"-150"
+		"ypos"						"-116"
 		"wide"						"54"
 		"tall"						"54"
 		"zpos"						"26"
@@ -1517,7 +1552,7 @@
 		"command" 					"engine disconnect"
 		"proportionaltoparent"		"1"
 		
-		"fgcolor_override"			"245 245 245 60"
+		"fgcolor_override"			"245 245 245 255"
 		"defaultfgcolor_override"	"245 245 245 60"
 		"armedfgcolor_override"		"245 245 245 240"
 		"armedbgcolor_override"		"255 255 255 16"
@@ -1527,7 +1562,7 @@
 			
 		"paintbackground"			"1"
 				
-		"image_drawcolor"			"245 245 245 60"
+		"image_drawcolor"			"245 245 245 200"
 		"image_armedcolor"			"245 245 245 200"
 		"SubImage"
 		{
@@ -1551,7 +1586,24 @@
 	}
 	
 
-	
+		"ServerBrowserButtonlabel"
+		{
+			"ControlName"			"cexlabel"
+			"fieldName"				"ServerBrowserButtonlabel"
+			"font"	"Symbols_34"
+			"textAlignment"	"center"
+			"labeltext"	"q"
+			"xpos"					"0"
+			"ypos"					"-11+1"
+			"proportionaltoparent"	"1"
+			"zpos"					"27"
+			"wide"					"54"
+			"tall"					"30"
+			"visible"				"1"
+			"enabled"				"1"
+			"pin_to_sibling"	"ServerBrowserButton"
+			"mouseinputenabled"	"0"
+		}		
 	"ServerBrowserButton"
 	{
 		"ControlName"				"CExImageButton"
@@ -1586,8 +1638,8 @@
 			
 		"paintbackground"			"1"
 				
-		"image_drawcolor"			"245 245 245 255"
-		"image_armedcolor"			"245 245 245 200"
+		"image_drawcolor"			"245 245 245 0"
+		"image_armedcolor"			"245 245 245 0"
 		
 		"SubImage"
 		{
@@ -1609,7 +1661,24 @@
 		"pin_corner_to_sibling" "1"
 		"pin_to_sibling_corner" "0"
 	}
-	
+		"SettingsButtonRLABEL"
+		{
+			"ControlName"			"cexlabel"
+			"fieldName"				"SettingsButtonRLABEL"
+			"font"	"Symbols_34"
+			"textAlignment"	"center"
+			"labeltext"	"|"
+			"xpos"					"0"
+			"ypos"					"-11+1"
+			"proportionaltoparent"	"1"
+			"zpos"					"27"
+			"wide"					"54"
+			"tall"					"30"
+			"visible"				"1"
+			"enabled"				"1"
+			"pin_to_sibling"	"SettingsButtonR"
+			"mouseinputenabled"	"0"
+		}	
 	"SettingsButtonR"
 	{
 		"ControlName"				"CExImageButton"
@@ -1649,8 +1718,8 @@
 			
 		"paintbackground"			"1"
 		
-		"image_drawcolor"			"245 245 245 255"
-		"image_armedcolor"			"245 245 245 255"
+		"image_drawcolor"			"245 245 245 0"
+		"image_armedcolor"			"245 245 245 0"
 		
 		"SubImage"
 		{
