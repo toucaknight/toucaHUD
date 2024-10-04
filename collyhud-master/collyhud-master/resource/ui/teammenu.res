@@ -302,7 +302,6 @@
 		"brighttext"	"0"
 		"command"		"cancelmenu"
 		"font"			"product8"
-		"pin_to_sibling" "teambutton2"
 		"defaultbgcolor"		"20 20 20 255"
 		"defaultbgcolor_override"		"20 20 20 255"
 		"bgcolor"		"20 20 20 255"
