@@ -184,23 +184,6 @@
 		"proportionaltoparent"	"1"	
 	}
 	
-	"Background2"
-	{
-		"ControlName"			"ImagePanel"
-		"fieldName"				"Background2"
-		"xpos"					"0"
-		"ypos"					"0"
-		"zpos"					"-100"
-		"wide"					"f0"
-		"tall"					"f0"
-		"alpha"					"255"
-		"visible"				"1"
-		"enabled"				"1"
-		"fillcolor"				"0 0 0 165"
-		//"image"				"replay/thumbnails/digi"
-		"scaleImage"			"1"
-		"proportionaltoparent"	"1"	
-	}
 	
 	"TFLogoImage"
 	{

@@ -148,7 +148,7 @@
 		"MainMenu.Inset"									"32"
 		"MainMenu.DepressedTextColor"						"White_Dark"
 		"MainMenu.MenuItemHeight"							"25"
-		"MainMenu.Backdrop"									"0 0 0 156"
+		"MainMenu.Backdrop"									"0 0 0 0"
 
 		"Menu.TextInset"									"6"
 		"Menu.FgColor"										"White_Dark"
