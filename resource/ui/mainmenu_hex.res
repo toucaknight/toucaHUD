@@ -1553,6 +1553,7 @@
 			}
 		}
 	}
+	
 	"Background"
 	{
 		"ControlName"			"ScalableImagePanel"
