@@ -1788,7 +1788,167 @@
 		"pin_to_sibling_corner" 	"PIN_TOPRIGHT" // Target Element
 	}
 	
-	
+	"Notifications_ShowButtonPanel"
+	{
+		"ControlName"								"EditablePanel"
+		"fieldname"									"Notifications_ShowButtonPanel"
+		"xpos"										"cs-0.5"
+		"ypos"										"30"
+		"zpos"										"15"
+		"wide"										"128"
+		"tall"										"14"
+		"visible"									"0"
+		"proportionaltoparent"						"1"
+
+		"paintbackground"							"1"
+		"paintbackgroundtype"						"0"
+		"bgcolor_override"							"Gray_Blue_Dark"
+
+		"Notifications_CountLabel"
+		{
+			"ControlName"							"CExLabel"
+			"fieldName"								"Notifications_CountLabel"
+			"font"									"Light_12"
+			"labelText"								"%noticount%"
+			"textAlignment"							"center"
+			"xpos"									"0"
+			"ypos"									"0"
+			"zpos"									"16"
+			"wide"									"o1"
+			"tall"									"f0"
+			"visible"								"1"
+			"enabled"								"1"
+			"fgcolor"								"White_Dark"
+			"paintbackground"						"1"
+			"bgcolor_override"						"Gray_Blue_Light"
+			"mouseinputenabled"						"0"
+			"proportionaltoparent"					"1"
+		}
+
+		"Notifications_ShowButtonPanel_SB"
+		{
+			"ControlName"							"CExImageButton"
+			"fieldName"								"Notifications_ShowButtonPanel_SB"
+			"xpos"									"0" // 0 so number is also clickable
+			"ypos"									"0"
+			"zpos"									"15"
+			"wide"									"f0"
+			"tall"									"f0"
+			"visible"								"1"
+			"enabled"								"1"
+			"textinsetx"							"25"
+			"use_proportional_insets"				"1"
+			"font"									"Light_12"
+			"labeltext"								"New Notification"
+			"AllCaps"								"1"
+			"textAlignment"							"west"
+			"default"								"1"
+			"command"								"noti_show"
+			"actionsignallevel"						"2"
+			"proportionaltoparent"					"1"
+			"sound_depressed"						"UI/buttonclick.wav"
+			"sound_released"						"UI/buttonclickrelease.wav"
+
+			"paintbackground"						"0"
+			"paintborder"							"0"
+
+			"defaultFgColor_override"				"White"
+			"armedFgColor_override"					"White_Solid"
+			"depressedFgColor_override"				"White_Solid"
+		}
+	}
+
+	"Notifications_Panel"
+	{
+		"ControlName"								"EditablePanel"
+		"fieldName"									"Notifications_Panel"
+		"xpos"										"0"
+		"ypos"										"0"
+		"zpos"										"100"
+		"wide"										"210"
+		"tall"										"80"
+		"visible"									"0"
+		"proportionaltoparent"						"1"
+
+		"paintbackground"							"1"
+		"paintbackgroundtype"						"0"
+		"paintborder"								"0"
+		"bgcolor_override"							"Gray_Blue_Dark"
+
+		"pin_to_sibling"							"Notifications_ShowButtonPanel"
+		"pin_corner_to_sibling"						"PIN_CENTER_TOP"
+		"pin_to_sibling_corner"						"PIN_CENTER_TOP"
+
+		"Notifications_CloseButton"
+		{
+			"ControlName"							"CExImageButton"
+			"fieldName"								"Notifications_CloseButton"
+			"xpos"									"rs1-2"
+			"ypos"									"2"
+			"zpos"									"15"
+			"wide"									"16"
+			"tall"									"16"
+			"visible"								"1"
+			"enabled"								"1"
+			"labeltext"								"-"
+			"font"									"Symbols_16"
+			"textAlignment"							"center"
+			"default"								"0"
+			"actionsignallevel"						"2"
+			"proportionaltoparent"					"1"
+
+			"Command"								"noti_hide"
+
+			"sound_depressed"						"UI/buttonclick.wav"
+			"sound_released"						"UI/buttonclickrelease.wav"
+
+			"paintbackground"						"0"
+
+			"defaultFgColor_override"				"White_Dark"
+			"armedFgColor_override"					"White_Solid"
+			"depressedFgColor_override"				"White_Solid"
+		}
+
+		"Notifications_TitleLabel"
+		{
+			"ControlName"							"CExLabel"
+			"fieldName"								"Notifications_TitleLabel"
+			"font"									"Light_14"
+			"labelText"								"%notititle%"
+			"textAlignment"							"north-west"
+			"xpos"									"12"
+			"ypos"									"8"
+			"wide"									"250"
+			"tall"									"20"
+			"visible"								"1"
+			"enabled"								"1"
+			"fgcolor"								"White_Dark"
+			"wrap"									"1"
+		}
+
+		"Notifications_Scroller"
+		{
+			"ControlName"							"ScrollableEditablePanel"
+			"fieldName"								"Notifications_Scroller"
+			"xpos"									"8"
+			"ypos"									"25"
+			"wide"									"210"
+			"tall"									"135"
+			"PaintBackgroundType"					"0"
+			"fgcolor_override"						"White_Dark"
+
+			"Notifications_Control"
+			{
+				"ControlName"						"CMainMenuNotificationsControl"
+				"fieldName"							"Notifications_Control"
+				"xpos"								"0"
+				"ypos"								"0"
+				"wide"								"220"
+				"tall"								"135"
+				"visible"							"1"
+			}
+		}
+	}
 	
 	
 	"AchievementsButton"
