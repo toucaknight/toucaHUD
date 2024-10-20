@@ -560,7 +560,7 @@
 			"1"
 			{
 				"name"										"Product Sans"
-				"tall"										"10"
+				"tall"										"9"
 				"antialias"									"1"
 			}
 		}
@@ -570,7 +570,7 @@
 			"1"
 			{
 				"name"										"Product Sans"
-				"tall"										"12"
+				"tall"										"9"
 				"underline" 								"1"
 				"antialias"									"1"
 			}
@@ -581,7 +581,7 @@
 			"1"
 			{
 				"name"										"Product Sans"
-				"tall"										"12"
+				"tall"										"9"
 				"antialias"									"1"
 			}
 		}
@@ -591,7 +591,7 @@
 			"1"
 			{
 				"name"										"Product Sans"
-				"tall"										"7"
+				"tall"										"9"
 				"antialias"									"1"
 			}
 		}
@@ -632,7 +632,7 @@
 			"1"
 			{
 				"name"										"Product Sans"
-				"tall"										"10"
+				"tall"										"12"
 				"weight"									"500"
 				"antialias"									"1"
 			}
@@ -674,10 +674,9 @@
 			"5"
 			{
 				"name"										"Product Sans"
-				"tall"										"52"
+				"tall"										"24"
 				"weight"									"500"
 				"antialias"									"1"
-				"yres"										"1200 10000"
 			}
 		}
 		"HudFontGiantBold"
@@ -743,15 +742,25 @@
 			}
 		}
 		"HudFontMediumSecondary"
-		{
-			"1"
-			{
-				"name"										"Product Sans"
-				"tall"										"24"
-				"weight"									"500"
-				"antialias"									"1"
-			}
-		}
+		 {
+            "1"
+            {
+                "name"        "Product Sans"
+                "tall"        "24"
+                "weight"    "500"
+                "yres"        "1 1199"
+                "additive"    "0"
+                "antialias" "1"
+            }
+            "2" // Misyl: Proportional
+            {
+                "name"        "Product Sans"
+                "tall"        "10"
+                "weight"    "500"
+                "additive"    "0"
+                "antialias" "1"
+            }
+        }
 		"HudFontMediumBold"
 		{
 			"1"
@@ -1965,7 +1974,6 @@
 				"name"										"Product Sans"
 				"tall"										"15"
 				"range"										"0x0000 0x017F"
-				"yres"										"1200 6000"
 				"antialias"									"1"
 			}
 		}
@@ -2441,7 +2449,6 @@
 				"name"										"Product Sans"
 				"tall"										"16"
 				"range"										"0x0000 0x017F"
-				"yres"										"1200 6000"
 				"antialias"									"1"
 			}
 		}
@@ -2492,7 +2499,6 @@
 				"name"										"Product Sans"
 				"tall"										"22"
 				"range"										"0x0000 0x017F"
-				"yres"										"1200 6000"
 				"antialias"									"1"
 			}
 			"6"

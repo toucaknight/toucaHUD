@@ -226,7 +226,7 @@
 			"5"
 			{
 				"name"										"Product Sans"
-				"tall"										"20"
+				"tall"										"8"
 				"weight"									"0"
 				"range"										"0x0000 0x017F"
 				"yres"										"1200 6000"
@@ -388,10 +388,11 @@
 			"1"
 			{
 				"name"										"Verdana"
-				"tall"										"12"
-				"weight"									"700"
+				"tall"										"8"
+				"weight"									"300"
 				"yres"										"480 599"
 				"dropshadow"								"1"
+				"antialias" 								"1"
 			}
 			"2"
 			{
