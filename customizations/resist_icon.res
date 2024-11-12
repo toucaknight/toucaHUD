@@ -8,5 +8,5 @@
 // https://github.com/Hypnootize/hexhud/wiki/Ubercharge
 //================================================================================================
 
-#base "../resource/ui/hudmediccharge_resistright.res"			//RIGHT SIDE
-//#base "../resource/ui/hudmediccharge_resistcenter.res"		//CENTERED
+//#base "../resource/ui/hudmediccharge_resistright.res"			//RIGHT SIDE
+#base "../resource/ui/hudmediccharge_resistcenter.res"		//CENTERED
