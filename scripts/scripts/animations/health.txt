@@ -1,3 +1,21 @@
+event CompetitiveGame_LowerChatWindow
+{
+//	Animate HudChat ypos r140 Accel 0 0
+}
+event CompetitiveGame_RestoreChatWindow
+{
+	RunEvent HudHealthBonusPulseStop 0.1
+	RunEvent HudHealthDyingPulseStop 0.1
+	RunEvent HudLowAmmoPulseStop 0.1
+	RunEvent HudMedicChargedStop 0.1
+
+	RunEventChild Mainmenuoverride EveryRespawn 0.0
+}
+event HudTournament_MoveChatWindow
+{
+	RunEvent CompetitiveGame_LowerChatWindow 0
+	RunEvent CompetitiveGame_RestoreChatWindow 10
+}
 //====================================================================================================================
 
 event HudHealthBonusPulse
