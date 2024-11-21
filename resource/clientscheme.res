@@ -3,7 +3,17 @@
 //============================================================
 #base "scheme/colors.res"
 #base "../customizations/colors.res"
+#base "../../../cfg/toucahud/tou_fonts.txt"
+#base "scheme/fonts_hex.res"
 
+// Font showcase inside the customization menu
+#base "ui/customizations/fonts/showcase.res"
+
+
+//============================================================
+// CROSSHAIRS SCHEMES
+//============================================================
+#base "../../../cfg/toucahud/tou_crosshair_edge.txt"
 //============================================================
 // FONT SCHEMES
 //============================================================

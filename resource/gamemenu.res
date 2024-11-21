@@ -37,8 +37,8 @@
 	"Workshop"
 	{
 		"label"										"{"
-		"command"									"engine OpenSteamWorkshopDialog"
-		"tooltip"									"Workshop"
+		"command"									"engine cl_mainmenu_safemode 1"
+		"tooltip"									"Customization Menu"
 	}
 	"Replays"
 	{
@@ -84,7 +84,7 @@
 	"ToolsOpenButton"
 	{
 		"label"										"Tools"
-		"command"									"engine cl_mainmenu_safemode 1"
+		"command"									"OpenSteamWorkshopDialog"
 		"tooltip"									""
 		"OnlyInGame"								"1"
 	}

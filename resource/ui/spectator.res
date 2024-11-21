@@ -1,3 +1,4 @@
+#base "../../../../cfg/toucahud/tou_items_stream.txt"
 #base "hudinspectpanel.res"
 
 "Resource/UI/Spectator.res"
@@ -10,11 +11,9 @@
 		"visible"									"1"
 		"enabled"									"1"
 	}
-
 	"specgui"
 	{
 	}
-
 	"ReinforcementsLabel"
 	{
 		"ControlName"								"CExLabel"
@@ -31,15 +30,14 @@
 		"fgcolor"									"White"
 		"AllCaps"									"1"
 	}
-
 	"BuyBackLabel"
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"BuyBackLabel"
-		"xpos"										"0"
-		"ypos"										"0"
+		"xpos"										"c-200"
+		"ypos"										"2"
 		"wide"										"400"
-		"tall"										"f0"
+		"tall"										"14"
 		"visible"									"0"
 		"enabled"									"1"
 		"labelText"									""
@@ -48,7 +46,6 @@
 		"wrap"										"1"
 		"centerwrap"								"1"
 	}
-
 	"spectator_extras"
 	{
 		"ControlName"								"EditablePanel"
@@ -62,11 +59,9 @@
 	}
 
 
-
-
-
-
-	//BIN
+	//===================================================================================
+	// REMOVED ELEMENTS
+	//===================================================================================
 	"topbar"
 	{
 		"ControlName"								"Panel"

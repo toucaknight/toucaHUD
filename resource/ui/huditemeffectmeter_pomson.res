@@ -1,10 +1,3 @@
-#base "huditemeffectmeter.res"
-
-"Resource/UI/HudItemEffectMeter_Pomson.res"
-{
-	"HudItemEffectMeter"
-	{
-		"ypos"										"r102"
-		"ypos_minmode"								"c74"
-	}
-}
+#base "../../../../cfg/toucahud/tou_meter_mid_minmode.txt"
+#base "huditemeffectmeter_#middle.res"
+#base "huditemeffectmeter_#base.res"

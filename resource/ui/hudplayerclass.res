@@ -1,4 +1,6 @@
-#base "../../customizations/crosshairs_and_hitmarker.res"
-#base "../../customizations/speedometer.res"
-#base "../../customizations/#streamermode/hudplayerclass.res"
+#base "../../../../cfg/toucahud/tou_class_stream.txt"
+#base "customizations/crosshairs/crosshair.res"
+#base "../../../../cfg/toucahud/tou_class_minmode.txt"
+#base "../../../../cfg/toucahud/tou_speedometer.txt"
+
 #base "hudplayerclass_hex.res"

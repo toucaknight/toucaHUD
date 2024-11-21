@@ -2,7 +2,7 @@
 #base "mainmenu_toolbar.res"
 #base "mainmenu_friendslist.res"
 #base "../dev/textures_preload.res"
-
+#base "customizations/#customization_menu/hud_customization.res"
 "Resource/UI/MainMenuOverride.res"
 {
 	MainMenuOverride
