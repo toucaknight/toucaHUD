@@ -13,7 +13,7 @@
 			"1"
 			{
 				"name"										"TF2 Build HEx"
-				"tall"										"30"
+				"tall"					"60"
 				"antialias"									"1"
 				"shadow"									"1"
 			}
@@ -23,7 +23,7 @@
 			"1"
 			{
 				"name"										"TF2 Build HEx"
-				"tall"										"30"
+				"tall"					"60"
 				"antialias"									"1"
 				"blur"										"2"
 			}
@@ -122,7 +122,7 @@
 			"1"
 			{
 				"name"										"TF2 Build HEx"
-				"tall"										"30"
+				"tall"					"60"
 				"antialias"									"1"
 			}
 		}
@@ -131,7 +131,7 @@
 			"1"
 			{
 				"name"										"TF2 Build HEx"
-				"tall"										"30"
+				"tall"					"60"
 				"antialias"									"1"
 				"blur"										"2"
 			}
@@ -250,7 +250,7 @@
 			"1"
 			{
 				"name"										"TF2 Build HEx"
-				"tall"										"30"
+				"tall"					"60"
 				"antialias"									"1"
 				"dropshadow"								"1"
 			}

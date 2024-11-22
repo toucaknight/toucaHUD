@@ -56,7 +56,7 @@
 					"visible"							"1"
 					"enabled"							"1"
 					"font"								"Symbols_12"
-					"command"							"engine hex_hitmarker_reset"
+					"command"							"engine tou_hitmarker_reset"
 					"labeltext"							"D"
 					"sound_depressed"					"UI/buttonclick.wav"
 					"proportionaltoparent"				"1"
@@ -120,7 +120,7 @@
 						"visible"						"1"
 						"enabled"						"1"
 						"font"							"Symbols_12"
-						"command"						"engine hex_hitmarker_visible"
+						"command"						"engine tou_hitmarker_visible"
 						"labeltext"						"+"
 						"textalignment"					"center"
 						"sound_depressed"				"UI/buttonclick.wav"
@@ -153,7 +153,7 @@
 						"visible"						"1"
 						"enabled"						"1"
 						"font"							"Symbols_12"
-						"command"						"engine hex_hitmarker_invisible"
+						"command"						"engine tou_hitmarker_invisible"
 						"labeltext"						"-"
 						"textalignment"					"center"
 						"sound_depressed"				"UI/buttonclick.wav"
@@ -229,7 +229,7 @@
 						"labelText"						"10"
 						"font"							"Light_10"
 						"textAlignment"					"center"
-						"Command"						"engine hex_hitmarker_size_10"
+						"Command"						"engine tou_hitmarker_size_10"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -262,7 +262,7 @@
 						"labelText"						"12"
 						"font"							"Light_10"
 						"textAlignment"					"center"
-						"Command"						"engine hex_hitmarker_size_12"
+						"Command"						"engine tou_hitmarker_size_12"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -299,7 +299,7 @@
 						"labelText"						"14"
 						"font"							"Light_10"
 						"textAlignment"					"center"
-						"Command"						"engine hex_hitmarker_size_14"
+						"Command"						"engine tou_hitmarker_size_14"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -336,7 +336,7 @@
 						"labelText"						"16"
 						"font"							"Light_10"
 						"textAlignment"					"center"
-						"Command"						"engine hex_hitmarker_size_16"
+						"Command"						"engine tou_hitmarker_size_16"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -373,7 +373,7 @@
 						"labelText"						"18"
 						"font"							"Light_10"
 						"textAlignment"					"center"
-						"Command"						"engine hex_hitmarker_size_18"
+						"Command"						"engine tou_hitmarker_size_18"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -410,7 +410,7 @@
 						"labelText"						"20"
 						"font"							"Light_10"
 						"textAlignment"					"center"
-						"Command"						"engine hex_hitmarker_size_20"
+						"Command"						"engine tou_hitmarker_size_20"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -447,7 +447,7 @@
 						"labelText"						"22"
 						"font"							"Light_10"
 						"textAlignment"					"center"
-						"Command"						"engine hex_hitmarker_size_22"
+						"Command"						"engine tou_hitmarker_size_22"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -484,7 +484,7 @@
 						"labelText"						"24"
 						"font"							"Light_10"
 						"textAlignment"					"center"
-						"Command"						"engine hex_hitmarker_size_24"
+						"Command"						"engine tou_hitmarker_size_24"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -521,7 +521,7 @@
 						"labelText"						"26"
 						"font"							"Light_10"
 						"textAlignment"					"center"
-						"Command"						"engine hex_hitmarker_size_26"
+						"Command"						"engine tou_hitmarker_size_26"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -558,7 +558,7 @@
 						"labelText"						"28"
 						"font"							"Light_10"
 						"textAlignment"					"center"
-						"Command"						"engine hex_hitmarker_size_28"
+						"Command"						"engine tou_hitmarker_size_28"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -595,7 +595,7 @@
 						"labelText"						"30"
 						"font"							"Light_10"
 						"textAlignment"					"center"
-						"Command"						"engine hex_hitmarker_size_30"
+						"Command"						"engine tou_hitmarker_size_30"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -632,7 +632,7 @@
 						"labelText"						"32"
 						"font"							"Light_10"
 						"textAlignment"					"center"
-						"Command"						"engine hex_hitmarker_size_30"
+						"Command"						"engine tou_hitmarker_size_30"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -711,7 +711,7 @@
 						"labelText"						"0"
 						"font"							"Showcase_Hitmarkers"
 						"textAlignment"					"center"
-						"Command"						"engine hex_hitmarker_style_1"
+						"Command"						"engine tou_hitmarker_style_1"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -744,7 +744,7 @@
 						"labelText"						"4"
 						"font"							"Showcase_Hitmarkers"
 						"textAlignment"					"center"
-						"Command"						"engine hex_hitmarker_style_2"
+						"Command"						"engine tou_hitmarker_style_2"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -781,7 +781,7 @@
 						"labelText"						"6"
 						"font"							"Showcase_Hitmarkers"
 						"textAlignment"					"center"
-						"Command"						"engine hex_hitmarker_style_3"
+						"Command"						"engine tou_hitmarker_style_3"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -818,7 +818,7 @@
 						"labelText"						"8"
 						"font"							"Showcase_Hitmarkers"
 						"textAlignment"					"center"
-						"Command"						"engine hex_hitmarker_style_4"
+						"Command"						"engine tou_hitmarker_style_4"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -855,7 +855,7 @@
 						"labelText"						">"
 						"font"							"Showcase_Hitmarkers"
 						"textAlignment"					"center"
-						"Command"						"engine hex_hitmarker_style_5"
+						"Command"						"engine tou_hitmarker_style_5"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -892,7 +892,7 @@
 						"labelText"						"?"
 						"font"							"Showcase_Hitmarkers"
 						"textAlignment"					"center"
-						"Command"						"engine hex_hitmarker_style_6"
+						"Command"						"engine tou_hitmarker_style_6"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -929,7 +929,7 @@
 						"labelText"						"F"
 						"font"							"Showcase_Hitmarkers"
 						"textAlignment"					"center"
-						"Command"						"engine hex_hitmarker_style_7"
+						"Command"						"engine tou_hitmarker_style_7"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -966,7 +966,7 @@
 						"labelText"						"J"
 						"font"							"Showcase_Hitmarkers"
 						"textAlignment"					"center"
-						"Command"						"engine hex_hitmarker_style_8"
+						"Command"						"engine tou_hitmarker_style_8"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -1003,7 +1003,7 @@
 						"labelText"						"N"
 						"font"							"Showcase_Hitmarkers"
 						"textAlignment"					"center"
-						"Command"						"engine hex_hitmarker_style_9"
+						"Command"						"engine tou_hitmarker_style_9"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -1040,7 +1040,7 @@
 						"labelText"						"Q"
 						"font"							"Showcase_Hitmarkers"
 						"textAlignment"					"center"
-						"Command"						"engine hex_hitmarker_style_10"
+						"Command"						"engine tou_hitmarker_style_10"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -1077,7 +1077,7 @@
 						"labelText"						"U"
 						"font"							"Showcase_Hitmarkers"
 						"textAlignment"					"center"
-						"Command"						"engine hex_hitmarker_style_11"
+						"Command"						"engine tou_hitmarker_style_11"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -1114,7 +1114,7 @@
 						"labelText"						"X"
 						"font"							"Showcase_Hitmarkers"
 						"textAlignment"					"center"
-						"Command"						"engine hex_hitmarker_style_12"
+						"Command"						"engine tou_hitmarker_style_12"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -1151,7 +1151,7 @@
 						"labelText"						"["
 						"font"							"Showcase_Hitmarkers"
 						"textAlignment"					"center"
-						"Command"						"engine hex_hitmarker_style_13"
+						"Command"						"engine tou_hitmarker_style_13"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -1188,7 +1188,7 @@
 						"labelText"						"]"
 						"font"							"Showcase_Hitmarkers"
 						"textAlignment"					"center"
-						"Command"						"engine hex_hitmarker_style_14"
+						"Command"						"engine tou_hitmarker_style_14"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -1225,7 +1225,7 @@
 						"labelText"						"a"
 						"font"							"Showcase_Hitmarkers"
 						"textAlignment"					"center"
-						"Command"						"engine hex_hitmarker_style_15"
+						"Command"						"engine tou_hitmarker_style_15"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -1262,7 +1262,7 @@
 						"labelText"						"k"
 						"font"							"Showcase_Hitmarkers"
 						"textAlignment"					"center"
-						"Command"						"engine hex_hitmarker_style_16"
+						"Command"						"engine tou_hitmarker_style_16"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -1299,7 +1299,7 @@
 						"labelText"						"l"
 						"font"							"Showcase_Hitmarkers"
 						"textAlignment"					"center"
-						"Command"						"engine hex_hitmarker_style_17"
+						"Command"						"engine tou_hitmarker_style_17"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -1336,7 +1336,7 @@
 						"labelText"						"n"
 						"font"							"Showcase_Hitmarkers"
 						"textAlignment"					"center"
-						"Command"						"engine hex_hitmarker_style_18"
+						"Command"						"engine tou_hitmarker_style_18"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -1373,7 +1373,7 @@
 						"labelText"						"o"
 						"font"							"Showcase_Hitmarkers"
 						"textAlignment"					"center"
-						"Command"						"engine hex_hitmarker_style_19"
+						"Command"						"engine tou_hitmarker_style_19"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -1410,7 +1410,7 @@
 						"labelText"						"r"
 						"font"							"Showcase_Hitmarkers"
 						"textAlignment"					"center"
-						"Command"						"engine hex_hitmarker_style_20"
+						"Command"						"engine tou_hitmarker_style_20"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -1447,7 +1447,7 @@
 						"labelText"						"u"
 						"font"							"Showcase_Hitmarkers"
 						"textAlignment"					"center"
-						"Command"						"engine hex_hitmarker_style_21"
+						"Command"						"engine tou_hitmarker_style_21"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -1484,7 +1484,7 @@
 						"labelText"						"x"
 						"font"							"Showcase_Hitmarkers"
 						"textAlignment"					"center"
-						"Command"						"engine hex_hitmarker_style_22"
+						"Command"						"engine tou_hitmarker_style_22"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"

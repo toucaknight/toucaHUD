@@ -56,7 +56,7 @@
 					"visible"							"1"
 					"enabled"							"1"
 					"font"								"Symbols_12"
-					"command"							"engine hex_xhair_reset"
+					"command"							"engine tou_xhair_reset"
 					"labeltext"							"D"
 					"sound_depressed"					"UI/buttonclick.wav"
 					"proportionaltoparent"				"1"
@@ -120,7 +120,7 @@
 						"visible"						"1"
 						"enabled"						"1"
 						"font"							"Symbols_12"
-						"command"						"engine hex_xhair_visible"
+						"command"						"engine tou_xhair_visible"
 						"labeltext"						"+"
 						"textalignment"					"center"
 						"sound_depressed"				"UI/buttonclick.wav"
@@ -153,7 +153,7 @@
 						"visible"						"1"
 						"enabled"						"1"
 						"font"							"Symbols_12"
-						"command"						"engine hex_xhair_invisible; hex_xhair_shadow_invisible"
+						"command"						"engine tou_xhair_invisible; hex_xhair_shadow_invisible"
 						"labeltext"						"-"
 						"textalignment"					"center"
 						"sound_depressed"				"UI/buttonclick.wav"
@@ -229,7 +229,7 @@
 						"visible"						"1"
 						"enabled"						"1"
 						"font"							"Symbols_12"
-						"command"						"engine hex_xhair_animation_on"
+						"command"						"engine tou_xhair_animation_on"
 						"labeltext"						"+"
 						"textalignment"					"center"
 						"sound_depressed"				"UI/buttonclick.wav"
@@ -262,7 +262,7 @@
 						"visible"						"1"
 						"enabled"						"1"
 						"font"							"Symbols_12"
-						"command"						"engine hex_xhair_animation_off"
+						"command"						"engine tou_xhair_animation_off"
 						"labeltext"						"-"
 						"textalignment"					"center"
 						"sound_depressed"				"UI/buttonclick.wav"
@@ -359,7 +359,7 @@
 						"visible"						"1"
 						"enabled"						"1"
 						"font"							"Symbols_12"
-						"command"						"engine hex_xhair_outline"
+						"command"						"engine tou_xhair_outline"
 						"labeltext"						"+"
 						"textalignment"					"center"
 						"sound_depressed"				"UI/buttonclick.wav"
@@ -392,7 +392,7 @@
 						"visible"						"1"
 						"enabled"						"1"
 						"font"							"Symbols_12"
-						"command"						"engine hex_xhair_edge_clear"
+						"command"						"engine tou_xhair_edge_clear"
 						"labeltext"						"-"
 						"textalignment"					"center"
 						"sound_depressed"				"UI/buttonclick.wav"
@@ -464,7 +464,7 @@
 						"visible"						"1"
 						"enabled"						"1"
 						"font"							"Symbols_12"
-						"command"						"engine hex_xhair_shadow_visible"
+						"command"						"engine tou_xhair_shadow_visible"
 						"labeltext"						"+"
 						"textalignment"					"center"
 						"sound_depressed"				"UI/buttonclick.wav"
@@ -497,7 +497,7 @@
 						"visible"						"1"
 						"enabled"						"1"
 						"font"							"Symbols_12"
-						"command"						"engine hex_xhair_shadow_invisible"
+						"command"						"engine tou_xhair_shadow_invisible"
 						"labeltext"						"-"
 						"textalignment"					"center"
 						"sound_depressed"				"UI/buttonclick.wav"
@@ -580,7 +580,7 @@
 						"labelText"						"!"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_1"
+						"Command"						"engine tou_xhair_style_1"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -613,7 +613,7 @@
 						"labelText"						"#"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_2"
+						"Command"						"engine tou_xhair_style_2"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -650,7 +650,7 @@
 						"labelText"						"$"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_3"
+						"Command"						"engine tou_xhair_style_3"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -687,7 +687,7 @@
 						"labelText"						"%"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_4"
+						"Command"						"engine tou_xhair_style_4"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -724,7 +724,7 @@
 						"labelText"						"'"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_5"
+						"Command"						"engine tou_xhair_style_5"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -761,7 +761,7 @@
 						"labelText"						"("
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_6"
+						"Command"						"engine tou_xhair_style_6"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -798,7 +798,7 @@
 						"labelText"						")"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_7"
+						"Command"						"engine tou_xhair_style_7"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -835,7 +835,7 @@
 						"labelText"						"*"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_8"
+						"Command"						"engine tou_xhair_style_8"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -872,7 +872,7 @@
 						"labelText"						"+"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_9"
+						"Command"						"engine tou_xhair_style_9"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -909,7 +909,7 @@
 						"labelText"						","
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_10"
+						"Command"						"engine tou_xhair_style_10"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -946,7 +946,7 @@
 						"labelText"						"-"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_11"
+						"Command"						"engine tou_xhair_style_11"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -983,7 +983,7 @@
 						"labelText"						"."
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_12"
+						"Command"						"engine tou_xhair_style_12"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -1020,7 +1020,7 @@
 						"labelText"						"/"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_13"
+						"Command"						"engine tou_xhair_style_13"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -1057,7 +1057,7 @@
 						"labelText"						"0"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_14"
+						"Command"						"engine tou_xhair_style_14"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -1094,7 +1094,7 @@
 						"labelText"						"1"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_15"
+						"Command"						"engine tou_xhair_style_15"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -1131,7 +1131,7 @@
 						"labelText"						"2"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_16"
+						"Command"						"engine tou_xhair_style_16"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -1168,7 +1168,7 @@
 						"labelText"						"3"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_17"
+						"Command"						"engine tou_xhair_style_17"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -1205,7 +1205,7 @@
 						"labelText"						"4"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_18"
+						"Command"						"engine tou_xhair_style_18"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -1242,7 +1242,7 @@
 						"labelText"						"5"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_19"
+						"Command"						"engine tou_xhair_style_19"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -1279,7 +1279,7 @@
 						"labelText"						"6"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_20"
+						"Command"						"engine tou_xhair_style_20"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -1316,7 +1316,7 @@
 						"labelText"						"7"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_21"
+						"Command"						"engine tou_xhair_style_21"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -1353,7 +1353,7 @@
 						"labelText"						"8"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_22"
+						"Command"						"engine tou_xhair_style_22"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -1390,7 +1390,7 @@
 						"labelText"						"9"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_23"
+						"Command"						"engine tou_xhair_style_23"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -1427,7 +1427,7 @@
 						"labelText"						":"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_24"
+						"Command"						"engine tou_xhair_style_24"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -1464,7 +1464,7 @@
 						"labelText"						"<"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_25"
+						"Command"						"engine tou_xhair_style_25"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -1501,7 +1501,7 @@
 						"labelText"						"="
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_26"
+						"Command"						"engine tou_xhair_style_26"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -1538,7 +1538,7 @@
 						"labelText"						">"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_27"
+						"Command"						"engine tou_xhair_style_27"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -1575,7 +1575,7 @@
 						"labelText"						"?"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_28"
+						"Command"						"engine tou_xhair_style_28"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -1612,7 +1612,7 @@
 						"labelText"						"@"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_29"
+						"Command"						"engine tou_xhair_style_29"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -1649,7 +1649,7 @@
 						"labelText"						"A"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_30"
+						"Command"						"engine tou_xhair_style_30"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -1686,7 +1686,7 @@
 						"labelText"						"B"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_31"
+						"Command"						"engine tou_xhair_style_31"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -1723,7 +1723,7 @@
 						"labelText"						"C"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_32"
+						"Command"						"engine tou_xhair_style_32"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -1760,7 +1760,7 @@
 						"labelText"						"D"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_33"
+						"Command"						"engine tou_xhair_style_33"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -1797,7 +1797,7 @@
 						"labelText"						"E"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_34"
+						"Command"						"engine tou_xhair_style_34"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -1834,7 +1834,7 @@
 						"labelText"						"F"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_35"
+						"Command"						"engine tou_xhair_style_35"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -1871,7 +1871,7 @@
 						"labelText"						"G"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_36"
+						"Command"						"engine tou_xhair_style_36"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -1908,7 +1908,7 @@
 						"labelText"						"H"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_37"
+						"Command"						"engine tou_xhair_style_37"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -1945,7 +1945,7 @@
 						"labelText"						"I"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_38"
+						"Command"						"engine tou_xhair_style_38"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -1982,7 +1982,7 @@
 						"labelText"						"J"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_39"
+						"Command"						"engine tou_xhair_style_39"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -2019,7 +2019,7 @@
 						"labelText"						"K"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_40"
+						"Command"						"engine tou_xhair_style_40"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -2056,7 +2056,7 @@
 						"labelText"						"L"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_41"
+						"Command"						"engine tou_xhair_style_41"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -2093,7 +2093,7 @@
 						"labelText"						"M"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_42"
+						"Command"						"engine tou_xhair_style_42"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -2130,7 +2130,7 @@
 						"labelText"						"N"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_43"
+						"Command"						"engine tou_xhair_style_43"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -2167,7 +2167,7 @@
 						"labelText"						"O"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_44"
+						"Command"						"engine tou_xhair_style_44"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -2204,7 +2204,7 @@
 						"labelText"						"P"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_45"
+						"Command"						"engine tou_xhair_style_45"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -2241,7 +2241,7 @@
 						"labelText"						"Q"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_46"
+						"Command"						"engine tou_xhair_style_46"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -2278,7 +2278,7 @@
 						"labelText"						"R"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_47"
+						"Command"						"engine tou_xhair_style_47"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -2315,7 +2315,7 @@
 						"labelText"						"S"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_48"
+						"Command"						"engine tou_xhair_style_48"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -2352,7 +2352,7 @@
 						"labelText"						"T"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_49"
+						"Command"						"engine tou_xhair_style_49"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -2389,7 +2389,7 @@
 						"labelText"						"U"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_50"
+						"Command"						"engine tou_xhair_style_50"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -2426,7 +2426,7 @@
 						"labelText"						"V"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_51"
+						"Command"						"engine tou_xhair_style_51"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -2463,7 +2463,7 @@
 						"labelText"						"W"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_52"
+						"Command"						"engine tou_xhair_style_52"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -2500,7 +2500,7 @@
 						"labelText"						"X"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_53"
+						"Command"						"engine tou_xhair_style_53"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -2537,7 +2537,7 @@
 						"labelText"						"Y"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_54"
+						"Command"						"engine tou_xhair_style_54"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -2574,7 +2574,7 @@
 						"labelText"						"Z"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_55"
+						"Command"						"engine tou_xhair_style_55"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -2611,7 +2611,7 @@
 						"labelText"						"["
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_56"
+						"Command"						"engine tou_xhair_style_56"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -2648,7 +2648,7 @@
 						"labelText"						"]"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_57"
+						"Command"						"engine tou_xhair_style_57"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -2685,7 +2685,7 @@
 						"labelText"						"^"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_58"
+						"Command"						"engine tou_xhair_style_58"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -2722,7 +2722,7 @@
 						"labelText"						"_"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_59"
+						"Command"						"engine tou_xhair_style_59"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -2759,7 +2759,7 @@
 						"labelText"						"`"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_60"
+						"Command"						"engine tou_xhair_style_60"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -2796,7 +2796,7 @@
 						"labelText"						"a"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_61"
+						"Command"						"engine tou_xhair_style_61"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -2833,7 +2833,7 @@
 						"labelText"						"b"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_62"
+						"Command"						"engine tou_xhair_style_62"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -2870,7 +2870,7 @@
 						"labelText"						"c"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_63"
+						"Command"						"engine tou_xhair_style_63"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -2907,7 +2907,7 @@
 						"labelText"						"d"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_64"
+						"Command"						"engine tou_xhair_style_64"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -2944,7 +2944,7 @@
 						"labelText"						"e"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_65"
+						"Command"						"engine tou_xhair_style_65"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -2981,7 +2981,7 @@
 						"labelText"						"f"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_66"
+						"Command"						"engine tou_xhair_style_66"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -3018,7 +3018,7 @@
 						"labelText"						"g"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_67"
+						"Command"						"engine tou_xhair_style_67"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -3055,7 +3055,7 @@
 						"labelText"						"h"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_68"
+						"Command"						"engine tou_xhair_style_68"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -3092,7 +3092,7 @@
 						"labelText"						"i"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_69"
+						"Command"						"engine tou_xhair_style_69"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -3129,7 +3129,7 @@
 						"labelText"						"j"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_70"
+						"Command"						"engine tou_xhair_style_70"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -3166,7 +3166,7 @@
 						"labelText"						"k"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_71"
+						"Command"						"engine tou_xhair_style_71"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -3203,7 +3203,7 @@
 						"labelText"						"l"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_72"
+						"Command"						"engine tou_xhair_style_72"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -3240,7 +3240,7 @@
 						"labelText"						"m"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_73"
+						"Command"						"engine tou_xhair_style_73"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -3277,7 +3277,7 @@
 						"labelText"						"n"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_74"
+						"Command"						"engine tou_xhair_style_74"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -3314,7 +3314,7 @@
 						"labelText"						"o"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_75"
+						"Command"						"engine tou_xhair_style_75"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -3351,7 +3351,7 @@
 						"labelText"						"p"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_76"
+						"Command"						"engine tou_xhair_style_76"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -3388,7 +3388,7 @@
 						"labelText"						"q"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_77"
+						"Command"						"engine tou_xhair_style_77"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -3425,7 +3425,7 @@
 						"labelText"						"r"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_78"
+						"Command"						"engine tou_xhair_style_78"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -3462,7 +3462,7 @@
 						"labelText"						"s"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_79"
+						"Command"						"engine tou_xhair_style_79"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -3499,7 +3499,7 @@
 						"labelText"						"t"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_80"
+						"Command"						"engine tou_xhair_style_80"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -3536,7 +3536,7 @@
 						"labelText"						"u"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_81"
+						"Command"						"engine tou_xhair_style_81"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -3573,7 +3573,7 @@
 						"labelText"						"v"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_82"
+						"Command"						"engine tou_xhair_style_82"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -3610,7 +3610,7 @@
 						"labelText"						"w"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_83"
+						"Command"						"engine tou_xhair_style_83"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -3647,7 +3647,7 @@
 						"labelText"						"x"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_84"
+						"Command"						"engine tou_xhair_style_84"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -3684,7 +3684,7 @@
 						"labelText"						"y"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_85"
+						"Command"						"engine tou_xhair_style_85"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -3721,7 +3721,7 @@
 						"labelText"						"z"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_86"
+						"Command"						"engine tou_xhair_style_86"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -3758,7 +3758,7 @@
 						"labelText"						"|"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_87"
+						"Command"						"engine tou_xhair_style_87"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -3795,7 +3795,7 @@
 						"labelText"						"~"
 						"font"							"Showcase_Crosshairs"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_style_88"
+						"Command"						"engine tou_xhair_style_88"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -3878,7 +3878,7 @@
 						"labelText"						"10"
 						"font"							"Light_10"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_size_10"
+						"Command"						"engine tou_xhair_size_10"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -3911,7 +3911,7 @@
 						"labelText"						"12"
 						"font"							"Light_10"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_size_12"
+						"Command"						"engine tou_xhair_size_12"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -3948,7 +3948,7 @@
 						"labelText"						"14"
 						"font"							"Light_10"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_size_14"
+						"Command"						"engine tou_xhair_size_14"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -3985,7 +3985,7 @@
 						"labelText"						"16"
 						"font"							"Light_10"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_size_16"
+						"Command"						"engine tou_xhair_size_16"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -4022,7 +4022,7 @@
 						"labelText"						"18"
 						"font"							"Light_10"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_size_18"
+						"Command"						"engine tou_xhair_size_18"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -4059,7 +4059,7 @@
 						"labelText"						"20"
 						"font"							"Light_10"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_size_20"
+						"Command"						"engine tou_xhair_size_20"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -4096,7 +4096,7 @@
 						"labelText"						"22"
 						"font"							"Light_10"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_size_22"
+						"Command"						"engine tou_xhair_size_22"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -4133,7 +4133,7 @@
 						"labelText"						"24"
 						"font"							"Light_10"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_size_24"
+						"Command"						"engine tou_xhair_size_24"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -4170,7 +4170,7 @@
 						"labelText"						"26"
 						"font"							"Light_10"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_size_26"
+						"Command"						"engine tou_xhair_size_26"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -4207,7 +4207,7 @@
 						"labelText"						"28"
 						"font"							"Light_10"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_size_28"
+						"Command"						"engine tou_xhair_size_28"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -4244,7 +4244,7 @@
 						"labelText"						"30"
 						"font"							"Light_10"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_size_30"
+						"Command"						"engine tou_xhair_size_30"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"
@@ -4281,7 +4281,7 @@
 						"labelText"						"32"
 						"font"							"Light_10"
 						"textAlignment"					"center"
-						"Command"						"engine hex_xhair_size_30"
+						"Command"						"engine tou_xhair_size_30"
 						"sound_depressed"				"UI/buttonclick.wav"
 
 						"paintbackground"				"1"

@@ -12,7 +12,7 @@ Scheme
 			"1"
 			{
 				"name"										"AvenirLTStd-Black"
-				"tall"										"40"
+				"tall"										"60"
 			}
 		}
 		"Health_Shadow"
@@ -20,7 +20,7 @@ Scheme
 			"1"
 			{
 				"name"										"AvenirLTStd-Black"
-				"tall"										"40"
+				"tall"										"60"
 			}
 		}
 
@@ -99,7 +99,7 @@ Scheme
 			"1"
 			{
 				"name"										"AvenirLTStd-Black"
-				"tall"										"40"
+				"tall"										"60"
 			}
 		}
 		"Ammo_Clip_Shadow"
@@ -107,7 +107,7 @@ Scheme
 			"1"
 			{
 				"name"										"AvenirLTStd-Black"
-				"tall"										"40"
+				"tall"										"60"
 			}
 		}
 
@@ -116,7 +116,7 @@ Scheme
 			"1"
 			{
 				"name"										"AvenirLTStd-Black"
-				"tall"										"18"
+				"tall"										"24"
 			}
 		}
 		"Ammo_Reserve_Shadow"
@@ -124,7 +124,7 @@ Scheme
 			"1"
 			{
 				"name"										"AvenirLTStd-Black"
-				"tall"										"18"
+				"tall"										"24"
 			}
 		}
 		
@@ -175,7 +175,7 @@ Scheme
 			"1"
 			{
 				"name"										"AvenirLTStd-Black"
-				"tall"										"40"
+				"tall"					"60"
 			}
 		}
 

@@ -12,7 +12,7 @@ Scheme
 			"1"
 			{
 				"name"										"Lato Bold"
-				"tall"										"44"
+				"tall"					"60"
 			}
 		}
 		"Health_Shadow"
@@ -20,7 +20,7 @@ Scheme
 			"1"
 			{
 				"name"										"Lato Bold"
-				"tall"										"44"
+				"tall"					"60"
 			}
 		}
 
@@ -99,7 +99,7 @@ Scheme
 			"1"
 			{
 				"name"										"Lato Bold"
-				"tall"										"44"
+				"tall"					"60"
 			}
 		}
 		"Ammo_Clip_Shadow"
@@ -107,7 +107,7 @@ Scheme
 			"1"
 			{
 				"name"										"Lato Bold"
-				"tall"										"44"
+				"tall"					"60"
 			}
 		}
 
@@ -175,7 +175,7 @@ Scheme
 			"1"
 			{
 				"name"										"Lato Bold"
-				"tall"										"44"
+				"tall"					"60"
 			}
 		}
 

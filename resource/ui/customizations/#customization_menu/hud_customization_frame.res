@@ -221,7 +221,7 @@
 				"labelText"								"Reset All"
 				"font"									"Light_10"
 				"textAlignment"							"center"
-				"Command"								"engine hex_customization_reset"
+				"Command"								"engine tou_customization_reset"
 				"actionsignallevel"						"3"
 				"sound_depressed"						"UI/buttonclick.wav"
 

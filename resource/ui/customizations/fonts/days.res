@@ -13,7 +13,7 @@
 			"1"
 			{
 				"name"										"Days_HEx"
-				"tall"										"26"
+				"tall"					"60"
 				"antialias"									"1"
 				"shadow"									"1"
 			}
@@ -23,7 +23,7 @@
 			"1"
 			{
 				"name"										"Days_HEx"
-				"tall"										"26"
+				"tall"					"60"
 				"antialias"									"1"
 				"blur"										"2"
 			}
@@ -122,7 +122,7 @@
 			"1"
 			{
 				"name"										"Days_HEx"
-				"tall"										"26"
+				"tall"					"60"
 				"antialias"									"1"
 			}
 		}
@@ -131,7 +131,7 @@
 			"1"
 			{
 				"name"										"Days_HEx"
-				"tall"										"26"
+				"tall"					"60"
 				"antialias"									"1"
 				"blur"										"2"
 			}
@@ -250,7 +250,7 @@
 			"1"
 			{
 				"name"										"Days_HEx"
-				"tall"										"26"
+				"tall"					"60"
 				"antialias"									"1"
 				"dropshadow"								"1"
 			}
@@ -443,7 +443,7 @@
 			"1"
 			{
 				"name"										"Days_HEx"
-				"tall"										"26"
+				"tall"					"60"
 				"antialias"									"1"
 				"dropshadow"								"1"
 			}
@@ -477,7 +477,7 @@
 			"1"
 			{
 				"name"										"Days_HEx"
-				"tall"										"26"
+				"tall"					"60"
 				"antialias"									"1"
 				"outline"									"1"
 			}
