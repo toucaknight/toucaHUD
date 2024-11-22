@@ -3,39 +3,81 @@
 	"Fonts"
 	{
 		//===========================================================================================================
-		// Health Font and Shadow Font
-		// Used on: Default - Minimal - Box - External cross Customizations
+		// HEALTH FONTS
 		//===========================================================================================================
-		"Health"
+		//-------------
+		// DEFAULT
+		//-------------
+		"Health_Default"
 		{
 			"1"
 			{
 				"name"										"Lexend Numbers"
-				"tall"										"60"
+				"tall"					"60"
 				"antialias"									"1"
+				"shadow"									"1"
 			}
 		}
-		"Health_Shadow"
+		"Health_Shadow_Default"
 		{
 			"1"
 			{
 				"name"										"Lexend Numbers"
-				"tall"										"60"
+				"tall"					"60"
 				"antialias"									"1"
 				"blur"										"2"
 			}
 		}
-
-		//===========================================================================================================
-		// *MINMODE* Health Font and Shadow Font
-		// Used on: Default - Minimal - Box - External cross Customizations
-		//===========================================================================================================
+		//-------------
+		// CENTERED
+		//-------------
+		"Health_Centered"
+		{
+			"1"
+			{
+				"name"										"Lexend Numbers"
+				"tall"										"48"
+				"antialias"									"1"
+			}
+		}
+		"Health_Shadow_Centered"
+		{
+			"1"
+			{
+				"name"										"Lexend Numbers"
+				"tall"										"48"
+				"antialias"									"1"
+				"blur"										"2"
+			}
+		}
+		"Health_Centered_Cross"
+		{
+			"1"
+			{
+				"name"										"Lexend Numbers"
+				"tall"										"26"
+				"antialias"									"1"
+			}
+		}
+		"Health_Shadow_Centered_Cross"
+		{
+			"1"
+			{
+				"name"										"Lexend Numbers"
+				"tall"										"26"
+				"antialias"									"1"
+				"blur"										"1"
+			}
+		}
+		//-------------
+		// MINMODE
+		//-------------
 		"Health_Minmode"
 		{
 			"1"
 			{
 				"name"										"Lexend Numbers"
-				"tall"										"35"
+				"tall"										"34"
 				"antialias"									"1"
 			}
 		}
@@ -44,69 +86,43 @@
 			"1"
 			{
 				"name"										"Lexend Numbers"
-				"tall"										"35"
+				"tall"										"34"
 				"antialias"									"1"
 				"blur"										"2"
 			}
 		}
-
-		//===========================================================================================================
-		// *HEALTH CROSS* Health Font and Shadow Font
-		// Used for the HEALTH CROSS Customization only
-		//===========================================================================================================
-		"Health_Cross"
-		{
-			"1"
-			{
-				"name"										"Lexend Numbers"
-				"tall"										"24"
-				"antialias"									"1"
-			}
-		}
-		"Health_Cross_Shadow"
-		{
-			"1"
-			{
-				"name"										"Lexend Numbers"
-				"tall"										"24"
-				"antialias"									"1"
-				"blur"										"2"
-			}
-		}
-
-		//===========================================================================================================
-		// *HEALTH CROSS MINMODE* Health Font and Shadow Font
-		// Used for the HEALTH CROSS Customization with minmode enabled
-		//===========================================================================================================
 		"Health_Minmode_Cross"
 		{
 			"1"
 			{
 				"name"										"Lexend Numbers"
-				"tall"										"18"
+				"tall"										"19"
 				"antialias"									"1"
 			}
 		}
-		"Health_Minmode_Cross_Shadow"
+		"Health_Shadow_Minmode_Cross"
 		{
 			"1"
 			{
 				"name"										"Lexend Numbers"
-				"tall"										"18"
+				"tall"										"19"
 				"antialias"									"1"
-				"blur"										"2"
+				"blur"										"1"
 			}
 		}
 
 		//===========================================================================================================
 		// Ammo Clip and Reserve Fonts
 		//===========================================================================================================
+		//-------------
+		// DEFAULT
+		//-------------
 		"Ammo_Clip"
 		{
 			"1"
 			{
 				"name"										"Lexend Numbers"
-				"tall"										"60"
+				"tall"					"60"
 				"antialias"									"1"
 			}
 		}
@@ -115,18 +131,17 @@
 			"1"
 			{
 				"name"										"Lexend Numbers"
-				"tall"										"60"
+				"tall"					"60"
 				"antialias"									"1"
 				"blur"										"2"
 			}
 		}
-
 		"Ammo_Reserve"
 		{
 			"1"
 			{
 				"name"										"Lexend Numbers"
-				"tall"										"24"
+				"tall"										"20"
 				"antialias"									"1"
 			}
 		}
@@ -135,21 +150,62 @@
 			"1"
 			{
 				"name"										"Lexend Numbers"
-				"tall"										"24"
+				"tall"										"20"
+				"antialias"									"1"
+				"blur"										"2"
+			}
+		}
+		//-------------
+		// CENTERED
+		//-------------
+		"Ammo_Clip_Centered"
+		{
+			"1"
+			{
+				"name"										"Lexend Numbers"
+				"tall"										"48"
+				"antialias"									"1"
+			}
+		}
+		"Ammo_Clip_Shadow_Centered"
+		{
+			"1"
+			{
+				"name"										"Lexend Numbers"
+				"tall"										"48"
 				"antialias"									"1"
 				"blur"										"2"
 			}
 		}
 
-		//===========================================================================================================
-		// MINMODE Ammo Clip and Reserve Fonts
-		//===========================================================================================================
+		"Ammo_Reserve_Centered"
+		{
+			"1"
+			{
+				"name"										"Lexend Numbers"
+				"tall"										"24"
+				"antialias"									"1"
+			}
+		}
+		"Ammo_Reserve_Shadow_Centered"
+		{
+			"1"
+			{
+				"name"										"Lexend Numbers"
+				"tall"										"24"
+				"antialias"									"1"
+				"blur"										"2"
+			}
+		}
+		//-------------
+		// MINMODE
+		//-------------
 		"Ammo_Clip_Minmode"
 		{
 			"1"
 			{
 				"name"										"Lexend Numbers"
-				"tall"										"35"
+				"tall"										"34"
 				"antialias"									"1"
 			}
 		}
@@ -158,7 +214,7 @@
 			"1"
 			{
 				"name"										"Lexend Numbers"
-				"tall"										"35"
+				"tall"										"34"
 				"antialias"									"1"
 				"blur"										"2"
 			}
@@ -183,44 +239,60 @@
 				"blur"										"2"
 			}
 		}
-
 		//===========================================================================================================
 		// Ubercharge Font
 		//===========================================================================================================
+		//-------------
+		// DEFAULT
+		//-------------
 		"Ubercharge"
 		{
 			"1"
 			{
 				"name"										"Lexend Numbers"
-				"tall"										"60"
+				"tall"					"60"
 				"antialias"									"1"
 				"dropshadow"								"1"
 			}
 		}
-
-		//===========================================================================================================
-		// Minmode Ubercharge Font
-		//===========================================================================================================
+		//-------------
+		// CENTERED
+		//-------------
+		"Ubercharge_Centered"
+		{
+			"1"
+			{
+				"name"										"Lexend Numbers"
+				"tall"										"48"
+				"antialias"									"1"
+				"dropshadow"								"1"
+			}
+		}
+		//-------------
+		// MINMODE
+		//-------------
 		"Ubercharge_Minmode"
 		{
 			"1"
 			{
 				"name"										"Lexend Numbers"
-				"tall"										"35"
+				"tall"										"34"
 				"antialias"									"1"
 				"dropshadow"								"1"
 			}
 		}
-
 		//===========================================================================================================
 		// Metal Font
 		//===========================================================================================================
+		//-------------
+		// DEFAULT
+		//-------------
 		"Metal"
 		{
 			"1"
 			{
 				"name"										"Lexend Numbers"
-				"tall"										"20"
+				"tall"										"22"
 				"antialias"									"1"
 			}
 		}
@@ -229,52 +301,6 @@
 			"1"
 			{
 				"name"										"Lexend Numbers"
-				"tall"										"20"
-				"antialias"									"1"
-				"blur"										"2"
-			}
-		}
-
-		//===========================================================================================================
-		// MINMODE Metal Font
-		//===========================================================================================================
-		"Metal_Minmode"
-		{
-			"1"
-			{
-				"name"										"Lexend Numbers"
-				"tall"										"18"
-				"antialias"									"1"
-			}
-		}
-		"Metal_Shadow_Minmode"
-		{
-			"1"
-			{
-				"name"										"Lexend Numbers"
-				"tall"										"18"
-				"antialias"									"1"
-				"blur"										"2"
-			}
-		}
-
-		//===========================================================================================================
-		// Stickies Font
-		//===========================================================================================================
-		"Sticky"
-		{
-			"1"
-			{
-				"name"										"Lexend Numbers"
-				"tall"										"22"
-				"antialias"									"1"
-			}
-		}
-		"Sticky_Shadow"
-		{
-			"1"
-			{
-				"name"										"Lexend Numbers"
 				"tall"										"22"
 				"antialias"									"1"
 				"blur"										"2"
@@ -282,9 +308,24 @@
 		}
 
 		//===========================================================================================================
-		// MINMODE Stickies Font
+		// Counters Fonts - Stickies, Killstreak, Heads, Spells, Powerups... (Metal for Centered)
 		//===========================================================================================================
-		"Sticky_Minmode"
+		//-------------
+		// DEFAULT
+		//-------------
+		"Counters"
+		{
+			"1"
+			{
+				"name"										"Lexend Numbers"
+				"tall"										"14"
+				"antialias"									"1"
+			}
+		}
+		//-------------
+		// CENTERED
+		//-------------
+		"Counters_Centered"
 		{
 			"1"
 			{
@@ -293,12 +334,34 @@
 				"antialias"									"1"
 			}
 		}
-		"Sticky_Shadow_Minmode"
+		"Counters_Shadow_Centered"
 		{
 			"1"
 			{
 				"name"										"Lexend Numbers"
 				"tall"										"20"
+				"antialias"									"1"
+				"blur"										"2"
+			}
+		}
+		//-------------
+		// MINMODE
+		//-------------
+		"Counters_Minmode"
+		{
+			"1"
+			{
+				"name"										"Lexend Numbers"
+				"tall"										"16"
+				"antialias"									"1"
+			}
+		}
+		"Counters_Shadow_Minmode"
+		{
+			"1"
+			{
+				"name"										"Lexend Numbers"
+				"tall"										"16"
 				"antialias"									"1"
 				"blur"										"2"
 			}
@@ -307,21 +370,46 @@
 		//===========================================================================================================
 		// Last Damage Done Font
 		//===========================================================================================================
-		"Last_Damage_Done"
+		//-------------
+		// CENTERED
+		//-------------
+		"Last_Damage_Done_Centered"
 		{
 			"1"
 			{
 				"name"										"Lexend Numbers"
-				"tall"										"24"
+				"tall"										"22"
 				"antialias"									"1"
 			}
 		}
-		"Last_Damage_Done_Shadow"
+		"Last_Damage_Done_Shadow_Centered"
 		{
 			"1"
 			{
 				"name"										"Lexend Numbers"
-				"tall"										"24"
+				"tall"										"22"
+				"antialias"									"1"
+				"blur"										"2"
+			}
+		}
+		//-------------
+		// MINMODE
+		//-------------
+		"Last_Damage_Done_Minmode"
+		{
+			"1"
+			{
+				"name"										"Lexend Numbers"
+				"tall"										"18"
+				"antialias"									"1"
+			}
+		}
+		"Last_Damage_Done_Shadow_Minmode"
+		{
+			"1"
+			{
+				"name"										"Lexend Numbers"
+				"tall"										"18"
 				"antialias"									"1"
 				"blur"										"2"
 			}
@@ -340,24 +428,22 @@
 				"dropshadow"								"1"
 			}
 		}
-
 		"Damage_Medium_Shadow"
 		{
 			"1"
 			{
 				"name"										"Lexend Numbers"
-				"tall"										"22"
+				"tall"										"24"
 				"antialias"									"1"
 				"dropshadow"								"1"
 			}
 		}
-
 		"Damage_Big_Shadow"
 		{
 			"1"
 			{
 				"name"										"Lexend Numbers"
-				"tall"										"28"
+				"tall"										"30"
 				"antialias"									"1"
 				"dropshadow"								"1"
 			}
@@ -376,24 +462,22 @@
 				"outline"									"1"
 			}
 		}
-
 		"Damage_Medium_Outline"
 		{
 			"1"
 			{
 				"name"										"Lexend Numbers"
-				"tall"										"22"
+				"tall"										"24"
 				"antialias"									"1"
 				"outline"									"1"
 			}
 		}
-
 		"Damage_Big_Outline"
 		{
 			"1"
 			{
 				"name"										"Lexend Numbers"
-				"tall"										"28"
+				"tall"										"30"
 				"antialias"									"1"
 				"outline"									"1"
 			}

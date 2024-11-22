@@ -2775,26 +2775,5 @@
 				"range"	"0x0000 0x007E"
 			}
 		}
-
-		"20"
-		{
-			"font"	"resource/scheme/fonts/product.ttf"
-			"name"	"Product Sans"
-		}
-		"21"
-		{
-			"font"	"resource/scheme/fonts/product_bold.ttf"
-			"name"	"Product Sans Bold"
-		}
-		"22"
-		{
-			"font"	"resource/scheme/fonts/product_numbers.ttf"
-			"name"	"Product Sans Numbers"
-		}
-		"23"
-		{
-			"font"	"resource/scheme/fonts/product_bold_numbers.ttf"
-			"name"	"Product Sans Bold Numbers"
-		}
 	}
 }
