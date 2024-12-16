@@ -7,7 +7,7 @@
 		"xpos"										"cs-0.5"
 		"ypos"										"rs1-1"
 		"zpos"										"16"
-		"wide"										"62"
+		"wide"										"0"
 		"tall"										"20"
 		"proportionaltoparent"						"1"
 

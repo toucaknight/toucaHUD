@@ -10,7 +10,7 @@
 
 
 //#base "../resource/ui/huddamage_small_shadow.res"			// SMALL DAMAGE NUMBERS WITH SHADOW
-#base "../resource/ui/huddamage_medium_shadow.res"			// MEDIUM DAMAGE NUMBERS WITH SHADOW
+//#base "../resource/ui/huddamage_medium_shadow.res"			// MEDIUM DAMAGE NUMBERS WITH SHADOW
 //#base "../resource/ui/huddamage_big_shadow.res"			// BIG DAMAGE NUMBERS WITH SHADOW
 
 //#base "../resource/ui/huddamage_small_outline.res"		// SMALL DAMAGE NUMBERS WITH OUTLINE

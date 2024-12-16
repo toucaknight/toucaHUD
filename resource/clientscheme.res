@@ -1,9 +1,10 @@
 //============================================================
 // COLOR SCHEMES
 //============================================================
+#base "../../../cfg/toucahud/tou_fonts.txt"
 #base "scheme/colors.res"
 #base "../customizations/colors.res"
-#base "../../../cfg/toucahud/tou_fonts.txt"
+
 #base "scheme/fonts_hex.res"
 
 // Font showcase inside the customization menu
