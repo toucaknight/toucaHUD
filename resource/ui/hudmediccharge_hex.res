@@ -15,7 +15,21 @@
 		"visible"									"0"
 		"enabled"									"1"
 	}
-
+	"ChargeMeter"
+	{
+		"ControlName"								"ContinuousProgressBar"
+		"fieldName"									"ChargeMeter"
+		"xpos"										"cs-0.5"
+		"ypos"										"r102"
+		"ypos_minmode"								"c66"
+		"zpos"										"2"
+		"wide"										"100"
+		"wide_minmode"								"80"
+		"tall"										"3"
+		"visible"									"1"
+		"enabled"									"1"
+		"proportionaltoparent"						"1"
+	}
 	"ChargeLabel"
 	{
 		"ControlName"								"CExLabel"
