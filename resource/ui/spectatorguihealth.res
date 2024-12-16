@@ -34,8 +34,8 @@
 		"enabled"									"1"
 		"textAlignment"								"center"
 		"labeltext"									"%Health%"
-		"font"										"Bold_14"
-		"font_minmode"								"Light_12"
+		"font"										"Counters_Minmode"
+		"font_minmode"								"Counters_Minmode"
 		"fgcolor"									"Health_Numbers"
 		"proportionaltoparent"						"1"
 	}
@@ -53,8 +53,8 @@
 		"enabled"									"1"
 		"textAlignment"								"center"
 		"labeltext"									"%Health%"
-		"font"										"Bold_14_Blur"
-		"font_minmode"								"Light_12_Blur"
+		"font"										"Counters_Minmode"
+		"font_minmode"								"Counters_Minmode"
 		"fgcolor"									"Shadow"
 		"proportionaltoparent"						"1"
 
