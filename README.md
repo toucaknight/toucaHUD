@@ -2,7 +2,7 @@ Thank you to Hypnotize, Colly, and Omnibombulator for inspiration and developmen
 Thank you to Jofre for the time spent and dedication to helping make this HUD as great as it can be for me!
 
 
---------------------------------For those interested in changing your resolution to 4:3-----------------------------------------
+---For those interested in changing your resolution to 4:3---
 
 All 4:3 folders are in the customization file, as well as the original 16:9 folder in case you want to change back, with instructions for installation. Since this is a first revision of 4:3, we ask that you guys experiment with the assets to iron out anything we may have missed. 
 
