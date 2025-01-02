@@ -1,17 +1,18 @@
+// dadw
+//what
 //============================================================
 // STREAMER MODE LAYOUT
 //============================================================
-#base "../../../cfg/toucahud/tou_layout_stream.txt"
+#base "../customizations/#streamermode/hudlayout.res"
 
 //============================================================
 // TRANSPARENT VIEWMODELS
 //============================================================
-#base "../../../cfg/toucahud/tou_viewmodels.txt"
+#base "../customizations/transparent_viewmodels.res"
 
 //============================================================
 // HExHUD LAYOUT
 //============================================================
-#base "../../../cfg/toucahud/tou_layout_minmode.txt"
 #base "layouts/layout_hex.res"
 
 //============================================================

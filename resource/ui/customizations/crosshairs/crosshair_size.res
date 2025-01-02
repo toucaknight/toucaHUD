@@ -1,1 +1,0 @@
-#base "../../../../../../cfg/toucahud/tou_crosshair_size.txt"

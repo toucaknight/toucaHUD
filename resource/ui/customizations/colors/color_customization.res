@@ -1,8 +1,0 @@
-#base "../../../../../../cfg/toucahud/tou_color_buff.txt"
-#base "../../../../../../cfg/toucahud/tou_color_hurt.txt"
-#base "../../../../../../cfg/toucahud/tou_color_ammo_low.txt"
-#base "../../../../../../cfg/toucahud/tou_color_ubercharge.txt"
-#base "../../../../../../cfg/toucahud/tou_color_damage.txt"
-#base "../../../../../../cfg/toucahud/tou_color_crosshair.txt"
-#base "../../../../../../cfg/toucahud/tou_color_xhair_flash.txt"
-#base "../../../../../../cfg/toucahud/tou_color_hitmarker.txt"
