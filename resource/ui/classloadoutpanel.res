@@ -5,6 +5,7 @@
 	"ReloadSchemeButton"
 	{
 		"ypos"										"50"
+		alpha 0
 	}
 
 	"LeftBG"
