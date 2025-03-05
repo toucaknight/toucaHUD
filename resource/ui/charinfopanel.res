@@ -25,14 +25,14 @@
 
 		"title"										"#CharInfoAndSetup"
 		"title_font"								"Light_16"
-		"titletextinsetX"							"40"
+		"titletextinsetX"							"0"
 		"titletextinsetY"							"0"
 		"titlebarfgcolor_override"					"Blank"
 		"titlebardisabledfgcolor_override"			"Blank"
 		"titlebarbgcolor_override"					"Blank"
 
 		"clientinsetx_override"						"0"
-		"sheetinset_bottom"							"18"
+		"sheetinset_bottom"							"15"
 	}
 
 	"Sheet"
@@ -42,9 +42,9 @@
 		"tabxindent"								"10"
 		"tabxdelta"									"3"
 		"tabwidth"									"240"
-		"tabheight"									"20"
+		"tabheight"									"34"
 		"transition_time"							"0"
-		"yoffset"									"14"
+		"yoffset"									"3"
 
 		"HeaderLine"
 		{

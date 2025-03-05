@@ -1655,14 +1655,14 @@
 		"fgcolor"									"White_Dark"
 	}
 
-	"class_loadout_panel"
+	"class_loadout_panel" //what?
 	{
 		"ControlName"								"CClassLoadoutPanel"
 		"fieldName"									"class_loadout_panel"
 		"xpos"										"0"
 		"ypos"										"0"
 		"wide"										"f0"
-		"tall"										"400"
+		"tall"										"420"
 		"zpos"										"500"
 		"visible"									"0"
 	}
