@@ -25,6 +25,7 @@
 		"xpos_minmode"								"c-100"
 		"ypos"										"c100"
 		"ypos_minmode"								"c40"
+		"ypos_minmode"								"c42" [$LINUX]
 		"zpos"										"0"
 		"wide"										"2"
 		"tall"										"50"

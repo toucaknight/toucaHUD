@@ -12,7 +12,8 @@ Scheme
 			"1"
 			{
 				"name"										"Lexend Numbers"
-				"tall"										"60"
+				"tall"										"60" [$WINDOWS]
+				"tall"										"30" [$LINUX]
 			}
 		}
 		"Health_Shadow"
@@ -20,7 +21,8 @@ Scheme
 			"1"
 			{
 				"name"										"Lexend Numbers"
-				"tall"										"60"
+				"tall"										"60" [$WINDOWS]
+				"tall"										"30" [$LINUX]
 			}
 		}
 
@@ -34,7 +36,8 @@ Scheme
 			"1"
 			{
 				"name"										"Lexend Numbers"
-				"tall"										"35"
+				"tall"										"35" [$WINDOWS]
+				"tall"										"17" [$LINUX]
 			}
 		}
 		"Health_Shadow_Minmode"
@@ -42,7 +45,8 @@ Scheme
 			"1"
 			{
 				"name"										"Lexend Numbers"
-				"tall"										"35"
+				"tall"										"35" [$WINDOWS]
+				"tall"										"17" [$LINUX]
 			}
 		}
 
@@ -99,7 +103,8 @@ Scheme
 			"1"
 			{
 				"name"										"Lexend Numbers"
-				"tall"										"60"
+				"tall"										"60" [$WINDOWS]
+				"tall"										"30" [$LINUX]
 			}
 		}
 		"Ammo_Clip_Shadow"
@@ -107,7 +112,8 @@ Scheme
 			"1"
 			{
 				"name"										"Lexend Numbers"
-				"tall"										"60"
+				"tall"										"60" [$WINDOWS]
+				"tall"										"30" [$LINUX]
 			}
 		}
 
@@ -116,7 +122,8 @@ Scheme
 			"1"
 			{
 				"name"										"Lexend Numbers"
-				"tall"										"24"
+				"tall"										"24" [$WINDOWS]
+				"tall"										"12" [$LINUX]
 			}
 		}
 		"Ammo_Reserve_Shadow"
@@ -124,7 +131,8 @@ Scheme
 			"1"
 			{
 				"name"										"Lexend Numbers"
-				"tall"										"24"
+				"tall"										"24" [$WINDOWS]
+				"tall"										"12" [$LINUX]
 			}
 		}
 		
@@ -137,7 +145,8 @@ Scheme
 			"1"
 			{
 				"name"										"Lexend Numbers"
-				"tall"										"35"
+				"tall"										"35" [$WINDOWS]
+				"tall"										"17" [$LINUX]
 			}
 		}
 		"Ammo_Clip_Shadow_Minmode"
@@ -145,7 +154,8 @@ Scheme
 			"1"
 			{
 				"name"										"Lexend Numbers"
-				"tall"										"35"
+				"tall"										"35" [$WINDOWS]
+				"tall"										"17" [$LINUX]
 			}
 		}
 
@@ -154,7 +164,9 @@ Scheme
 			"1"
 			{
 				"name"										"Lexend Numbers"
-				"tall"										"20"
+				"tall"										"20" [$WINDOWS]
+				"tall"										"8" [$LINUX]
+
 			}
 		}
 		"Ammo_Reserve_Shadow_Minmode"
@@ -162,7 +174,8 @@ Scheme
 			"1"
 			{
 				"name"										"Lexend Numbers"
-				"tall"										"20"
+				"tall"										"20" [$WINDOWS]
+				"tall"										"8" [$LINUX]
 			}
 		}
 
@@ -175,7 +188,8 @@ Scheme
 			"1"
 			{
 				"name"										"Lexend Numbers"
-				"tall"										"60"
+				"tall"										"60" [$WINDOWS]
+				"tall"										"30" [$LINUX]
 			}
 		}
 
@@ -188,7 +202,8 @@ Scheme
 			"1"
 			{
 				"name"										"Lexend Numbers"
-				"tall"										"35"
+				"tall"										"35" [$WINDOWS]
+				"tall"										"17" [$LINUX]
 			}
 		}
 
@@ -201,7 +216,8 @@ Scheme
 			"1"
 			{
 				"name"										"Lexend Numbers"
-				"tall"										"20"
+				"tall"										"20" [$WINDOWS]
+				"tall"										"8" [$LINUX]
 			}
 		}
 		"Metal_Shadow"
@@ -209,7 +225,8 @@ Scheme
 			"1"
 			{
 				"name"										"Lexend Numbers"
-				"tall"										"20"
+				"tall"										"20" [$WINDOWS]
+				"tall"										"8" [$LINUX]
 			}
 		}
 
@@ -222,7 +239,8 @@ Scheme
 			"1"
 			{
 				"name"										"Lexend Numbers"
-				"tall"										"18"
+				"tall"										"18" [$WINDOWS]
+				"tall"										"8" [$LINUX]
 			}
 		}
 		"Metal_Shadow_Minmode"
@@ -230,7 +248,8 @@ Scheme
 			"1"
 			{
 				"name"										"Lexend Numbers"
-				"tall"										"18"
+				"tall"										"18" [$WINDOWS]
+				"tall"										"8" [$LINUX]
 			}
 		}
 
@@ -243,15 +262,16 @@ Scheme
 			"1"
 			{
 				"name"										"Lexend Numbers"
-				"tall"										"22"
+				"tall"										"22" [$WINDOWS]
+				"tall"										"10" [$LINUX]
 			}
 		}
 		"Sticky_Shadow"
 		{
 			"1"
 			{
-				"name"										"Lexend Numbers"
-				"tall"										"22"
+				"tall"										"22" [$WINDOWS]
+				"tall"										"10" [$LINUX]
 			}
 		}
 
@@ -264,7 +284,8 @@ Scheme
 			"1"
 			{
 				"name"										"Lexend Numbers"
-				"tall"										"20"
+				"tall"										"20" [$WINDOWS]
+				"tall"										"8" [$LINUX]
 			}
 		}
 		"Sticky_Shadow_Minmode"
@@ -272,7 +293,8 @@ Scheme
 			"1"
 			{
 				"name"										"Lexend Numbers"
-				"tall"										"20"
+				"tall"										"20" [$WINDOWS]
+				"tall"										"8" [$LINUX]
 			}
 		}
 
@@ -285,7 +307,8 @@ Scheme
 			"1"
 			{
 				"name"										"Lexend Numbers"
-				"tall"										"24"
+				"tall"										"24" [$WINDOWS]
+				"tall"										"12" [$LINUX]
 			}
 		}
 		"Last_Damage_Done_Shadow"
@@ -293,7 +316,8 @@ Scheme
 			"1"
 			{
 				"name"										"Lexend Numbers"
-				"tall"										"24"
+				"tall"										"24" [$WINDOWS]
+				"tall"										"12" [$LINUX]
 			}
 		}
 
@@ -306,7 +330,8 @@ Scheme
 			"1"
 			{
 				"name"										"Lexend Numbers"
-				"tall"										"18"
+				"tall"										"18" [$WINDOWS]
+				"tall"										"6" [$LINUX]
 			}
 		}
 
@@ -315,7 +340,8 @@ Scheme
 			"1"
 			{
 				"name"										"Lexend Numbers"
-				"tall"										"22"
+				"tall"										"22" [$WINDOWS]
+				"tall"										"10" [$LINUX]
 			}
 		}
 
@@ -324,7 +350,8 @@ Scheme
 			"1"
 			{
 				"name"										"Lexend Numbers"
-				"tall"										"28"
+				"tall"										"28" [$WINDOWS]
+				"tall"										"14" [$LINUX]
 			}
 		}
 
@@ -337,7 +364,8 @@ Scheme
 			"1"
 			{
 				"name"										"Lexend Numbers"
-				"tall"										"18"
+				"tall"										"18" [$WINDOWS]
+				"tall"										"8" [$LINUX]
 			}
 		}
 
@@ -346,7 +374,8 @@ Scheme
 			"1"
 			{
 				"name"										"Lexend Numbers"
-				"tall"										"22"
+				"tall"										"22" [$WINDOWS]
+				"tall"										"10" [$LINUX]
 			}
 		}
 
@@ -355,7 +384,8 @@ Scheme
 			"1"
 			{
 				"name"										"Lexend Numbers"
-				"tall"										"28"
+				"tall"										"28" [$WINDOWS]
+				"tall"										"14" [$LINUX]
 			}
 		}
 	}
